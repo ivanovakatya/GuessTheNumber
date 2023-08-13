@@ -1,4 +1,5 @@
 # GuessTheNumber
 
-This is a simple game that will guess a number beltline
-1 and 20
+## This is a simple game which will allow you to guess random numbers between 1 and 20
+
+### Good luck! Hope you enjoy it 🙂
